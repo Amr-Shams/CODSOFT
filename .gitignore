@@ -5,3 +5,6 @@
 
 ### 3. any file with csv
 *.csv
+*.dat
+*.txt
+
